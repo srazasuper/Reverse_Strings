@@ -8,7 +8,7 @@ Sudo-user with password less access to root
 **Automated through deployement script**
 ```
 after cloning the directory.
-cd signavio.
+cd Reverse_Strings.
 chmod +x deployer.sh
 bash -x deployer.sh
 ```
